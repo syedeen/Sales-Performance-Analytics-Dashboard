@@ -14,10 +14,10 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 - Interactive filtering using Year / Month slicers 
 
 ## Tools Used
--Power BI
--DAX Measures: Total Sales, Total Profit, MTD, YTD, TopN
--Data Modeling: Date Table, relationships, sorting 
--Data cleaning + formatting for KPIs and charts  
+- Power BI
+- DAX Measures: Total Sales, Total Profit, MTD, YTD, TopN
+- Data Modeling: Date Table, relationships, sorting 
+- Data cleaning + formatting for KPIs and charts  
 
 ## How to Use
 Open the `.pbix` file and interact using slicers and filters.
