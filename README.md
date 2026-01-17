@@ -22,7 +22,7 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 ## How to Use
 Open the `.pbix` file and interact using slicers and filters.
 
-## Image Preview
+## Dashboard Preview
 <div>
    <img src="images/e-commerce-bii-1.png" height="550" width="500">
    <img src="images/e-commerce-bii-4.png" height="550" width="500">
