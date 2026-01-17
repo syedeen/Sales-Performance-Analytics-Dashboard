@@ -14,7 +14,12 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 - Interactive filtering using Year / Month slicers
 
 ## Image Preview
-   ![Kpi Dashboard](images/e commerce bii-1.png)
+<div>
+   <img src="images/e-commerce-bii-1.png" height="550" width="500">
+   <img src="images/e-commerce-bii-4.png" height="550" width="500">
+   <img src="images/e-commerce-bii-6.png" height="550" width="500">
+   <img src="images/e-commerce-bii-7.png" height="550" width="500">
+</div>
 
 ## Tools Used
 - Power BI
