@@ -11,7 +11,10 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 - Profit Dashboard: profit drivers, losses & recoveries, margin patterns
 - Time Intelligence: MTD and YTD measures using Date Table
 - Top-N Analysis: Top products by country and Top sales/profit months
-- Interactive filtering using Year / Month slicers 
+- Interactive filtering using Year / Month slicers
+
+## Image Preview
+   !(images/e commerce bii-1.png)
 
 ## Tools Used
 - Power BI
